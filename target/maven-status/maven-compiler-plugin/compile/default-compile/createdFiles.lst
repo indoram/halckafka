@@ -1,0 +1,8 @@
+au\gov\rba\ps\kafkahalc\CustomSerializer.class
+au\gov\rba\ps\kafkahalc\App.class
+au\gov\rba\ps\kafkahalc\KafkaConstants.class
+au\gov\rba\ps\kafkahalc\ProducerCreator.class
+au\gov\rba\ps\kafkahalc\CustomDeserializer.class
+au\gov\rba\ps\kafkahalc\CustomPartitioner.class
+au\gov\rba\ps\kafkahalc\CustomObject.class
+au\gov\rba\ps\kafkahalc\ConsumerCreator.class
